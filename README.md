@@ -51,8 +51,8 @@ This project is built using the following technologies:
 ## Project Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce707564-1483-4fcb-8a2a-459285b85c0b" alt="Screenshot 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6cee0bd0-6d2d-46f2-9bd4-38e0e5e59384" alt="Screenshot 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0520c783-bde3-437c-84c3-6cd021a986f9" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2a90e6bc-ec33-41ea-b448-357593aeb517" alt="Screenshot 2" width="45%" />
 </p>
 
 
